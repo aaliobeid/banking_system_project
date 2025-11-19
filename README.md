@@ -45,4 +45,4 @@ python banking_system.py
 
 This project is open-source and available under the MIT License.
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
