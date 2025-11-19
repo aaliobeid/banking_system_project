@@ -17,7 +17,8 @@ A console-based banking system that allows users to create accounts, log in, dep
 1. Clone the repository:
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/aaliobeid/banking_system_project.git
+
 ```
 
 2. Navigate to the project directory:
@@ -42,7 +43,5 @@ python banking_system.py
 * Expand features to include transaction history and account management.
 
 ## License
+This project is licensed under the MIT License - see the (LICENSE) file for details.
 
-This project is open-source and available under the MIT License.
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
