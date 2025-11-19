@@ -1,0 +1,3 @@
+00000001,alice,aLice2000,100.0
+12245609,joe,joeQ009,2200.0
+33476890,kevin,kevinAccount240,1290.0
